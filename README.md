@@ -270,7 +270,7 @@ for x in exp/*/decode_test; do [ -d $x ] && grep WER $x/cer_* | utils/best_wer.s
 
 
 
-![1562478247525](C:\Users\wangliyuan\AppData\Roaming\Typora\typora-user-images\1562478247525.png)
+![1562478247525](result.png)
 
 ### 模型开源
 
