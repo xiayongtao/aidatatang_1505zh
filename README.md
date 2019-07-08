@@ -274,7 +274,8 @@ for x in exp/*/decode_test; do [ -d $x ] && grep WER $x/cer_* | utils/best_wer.s
 
 ### 模型开源
 
-继数据开源之后，数据堂决定将上述语音识别模型开源，以便更多研究人员对自有数据进行中文语音识别的研究。模型下载请访问[这里](http://bj-oss-data-04.oss-cn-beijing.aliyuncs.com/%E5%BC%80%E6%BA%90%E6%95%B0%E6%8D%AE/aidatatang_1505zh_ac_model.tar.gz?OSSAccessKeyId=LTAI2gYkXSt4KRmE&Expires=1570328924&Signature=%2F0zSaPHze%2F%2FAcR4Y5H5eJz8BhQA%3D)。
+继数据开源之后，数据堂决定将上述语音识别模型开源，以便更多研究人员对自有数据进行中文语音识别的研究。
+模型下载请访问[这里](http://bj-oss-data-04.oss-cn-beijing.aliyuncs.com/%E5%BC%80%E6%BA%90%E6%95%B0%E6%8D%AE/aidatatang_1505zh_ac_model.tar.gz?OSSAccessKeyId=LTAI2gYkXSt4KRmE&Expires=1570328924&Signature=%2F0zSaPHze%2F%2FAcR4Y5H5eJz8BhQA%3D)。
 
 ## 更多数据资源
 
